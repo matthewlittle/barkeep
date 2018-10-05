@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: barkeep
+---
+testFramework: junit
+sourceLanguage: java
